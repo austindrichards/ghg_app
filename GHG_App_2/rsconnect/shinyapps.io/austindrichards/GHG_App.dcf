@@ -1,0 +1,12 @@
+name: GHG_App
+title: GHG_App
+username:
+account: austindrichards
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 296832
+bundleId: 1262128
+url: https://austindrichards.shinyapps.io/GHG_App/
+when: 1520667476.93098
+asMultiple: FALSE
+asStatic: FALSE
